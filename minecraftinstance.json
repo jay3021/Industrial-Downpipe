@@ -18,7 +18,7 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2017-11-27T03:58:34.9124685Z",
+  "lastPlayed": "2017-11-27T04:23:28.5005493Z",
   "manifest": null,
   "fileDate": "0001-01-01T00:00:00",
   "installedModpack": null,
@@ -5054,6 +5054,130 @@
       "dateInstalled": "2017-11-27T03:43:48.4923673Z",
       "dateUpdated": "2017-11-27T03:43:48.4943688Z",
       "dateLastUpdateAttempted": "2017-11-27T03:43:48.4943688Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null
+    },
+    {
+      "addonID": 224712,
+      "gameInstanceID": "28afb455-3db2-48a0-a114-4ed140b29fe3",
+      "installedFile": {
+        "Id": 2398640,
+        "FileName": "Wawla-1.10.2-2.3.2.215.jar",
+        "FileNameOnDisk": "Wawla-1.10.2-2.3.2.215.jar",
+        "FileDate": "2017-03-28T18:02:10.593",
+        "ReleaseType": 1,
+        "FileStatus": 2,
+        "DownloadURL": "https://addons.cursecdn.com/files/2398/640/Wawla-1.10.2-2.3.2.215.jar",
+        "IsAlternate": false,
+        "AlternateFileId": 0,
+        "Dependencies": [
+          {
+            "AddOnId": 73488,
+            "Type": 2
+          }
+        ],
+        "IsAvailable": true,
+        "Modules": [
+          {
+            "Foldername": "META-INF",
+            "Fingerprint": 1655036106
+          },
+          {
+            "Foldername": "net",
+            "Fingerprint": 2060135231
+          },
+          {
+            "Foldername": "assets",
+            "Fingerprint": 3052764987
+          },
+          {
+            "Foldername": "mcmod.info",
+            "Fingerprint": 1434112037
+          },
+          {
+            "Foldername": "pack.mcmeta",
+            "Fingerprint": 2896009138
+          }
+        ],
+        "PackageFingerprint": 1047332095,
+        "GameVersion": [
+          "1.10.2"
+        ]
+      },
+      "dateInstalled": "2017-11-27T04:18:06.152917Z",
+      "dateUpdated": "2017-11-27T04:18:06.1544184Z",
+      "dateLastUpdateAttempted": "2017-11-27T04:18:06.1544184Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null
+    },
+    {
+      "addonID": 220318,
+      "gameInstanceID": "28afb455-3db2-48a0-a114-4ed140b29fe3",
+      "installedFile": {
+        "Id": 2425769,
+        "FileName": "BiomesOPlenty-1.10.2-5.0.0.2236-universal.jar",
+        "FileNameOnDisk": "BiomesOPlenty-1.10.2-5.0.0.2236-universal.jar",
+        "FileDate": "2017-05-27T23:03:23.587",
+        "ReleaseType": 1,
+        "FileStatus": 2,
+        "DownloadURL": "https://addons.cursecdn.com/files/2425/769/BiomesOPlenty-1.10.2-5.0.0.2236-universal.jar",
+        "IsAlternate": false,
+        "AlternateFileId": 0,
+        "Dependencies": [],
+        "IsAvailable": true,
+        "Modules": [
+          {
+            "Foldername": "META-INF",
+            "Fingerprint": 2108986136
+          },
+          {
+            "Foldername": "biomesoplenty",
+            "Fingerprint": 4168985551
+          },
+          {
+            "Foldername": "assets",
+            "Fingerprint": 2668777714
+          },
+          {
+            "Foldername": "mcmod.info",
+            "Fingerprint": 4218044594
+          },
+          {
+            "Foldername": "pack.mcmeta",
+            "Fingerprint": 72953735
+          },
+          {
+            "Foldername": "LICENSE.txt",
+            "Fingerprint": 2878218662
+          },
+          {
+            "Foldername": "version.properties",
+            "Fingerprint": 149899880
+          }
+        ],
+        "PackageFingerprint": 3562176263,
+        "GameVersion": [
+          "1.10.2",
+          "1.10"
+        ]
+      },
+      "dateInstalled": "2017-11-27T04:22:25.9166672Z",
+      "dateUpdated": "2017-11-27T04:22:25.9316687Z",
+      "dateLastUpdateAttempted": "2017-11-27T04:22:25.9316687Z",
       "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
