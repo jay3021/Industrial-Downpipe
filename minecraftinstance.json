@@ -18,7 +18,7 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2017-11-27T02:58:24.2864699Z",
+  "lastPlayed": "2017-11-27T03:58:34.9124685Z",
   "manifest": null,
   "fileDate": "0001-01-01T00:00:00",
   "installedModpack": null,
@@ -182,36 +182,6 @@
       "queryTimestamp": "2017-11-27T03:35:33.354424Z",
       "fileCount": 1,
       "fileSize": 13852363
-    },
-    {
-      "folderName": "jei_1.10.2-3.14.7.420.jar",
-      "fingerprint": 2451537769,
-      "fileDateHash": 785551686,
-      "sectionID": 6,
-      "individualFingerprints": [
-        2451537769
-      ],
-      "status": 1,
-      "timestamp": "2017-11-27T03:35:31.9737484Z",
-      "lastWriteTimeUtc": "2017-11-26T21:47:22.9876179Z",
-      "queryTimestamp": "2017-11-27T03:35:33.3549242Z",
-      "fileCount": 1,
-      "fileSize": 470436
-    },
-    {
-      "folderName": "CodeChickenCore-1.10.2-2.4.1.102-universal.jar",
-      "fingerprint": 1153593684,
-      "fileDateHash": 2817245075,
-      "sectionID": 6,
-      "individualFingerprints": [
-        1153593684
-      ],
-      "status": 1,
-      "timestamp": "2017-11-27T03:35:31.5131905Z",
-      "lastWriteTimeUtc": "2017-11-26T21:47:23.2487276Z",
-      "queryTimestamp": "2017-11-27T03:35:33.3549242Z",
-      "fileCount": 1,
-      "fileSize": 105689
     },
     {
       "folderName": "IronBackpacks-1.10.2-2.2.36.jar",
@@ -541,6 +511,21 @@
       "fileSize": 2821916
     },
     {
+      "folderName": "CraftTweaker-1.10.2-3.0.26.jar",
+      "fingerprint": 2027201569,
+      "fileDateHash": 2757130286,
+      "sectionID": 6,
+      "individualFingerprints": [
+        2027201569
+      ],
+      "status": 1,
+      "timestamp": "2017-11-27T03:47:27.5603568Z",
+      "lastWriteTimeUtc": "2017-11-27T03:42:50.0926964Z",
+      "queryTimestamp": "2017-11-27T03:47:27.8233908Z",
+      "fileCount": 1,
+      "fileSize": 869645
+    },
+    {
       "folderName": "ThermalFoundation-1.10.2-2.1.5.12-universal.jar",
       "fingerprint": 3543217474,
       "fileDateHash": 1828902143,
@@ -676,21 +661,6 @@
       "fileSize": 192679
     },
     {
-      "folderName": "NotEnoughItems-1.10.2-2.1.3.220-universal.jar",
-      "fingerprint": 4244341632,
-      "fileDateHash": 3129685717,
-      "sectionID": 6,
-      "individualFingerprints": [
-        4244341632
-      ],
-      "status": 1,
-      "timestamp": "2017-11-27T03:35:32.4343086Z",
-      "lastWriteTimeUtc": "2017-11-26T21:47:29.5993437Z",
-      "queryTimestamp": "2017-11-27T03:35:33.3609248Z",
-      "fileCount": 1,
-      "fileSize": 583601
-    },
-    {
       "folderName": "ironchest-1.10.2-7.0.15.804.jar",
       "fingerprint": 4082599176,
       "fileDateHash": 4158027137,
@@ -809,6 +779,21 @@
       "queryTimestamp": "2017-11-27T03:35:33.3629253Z",
       "fileCount": 1,
       "fileSize": 1072911
+    },
+    {
+      "folderName": "itemscroller-1.10.2-0.11.0.jar",
+      "fingerprint": 1731768631,
+      "fileDateHash": 1928723423,
+      "sectionID": 6,
+      "individualFingerprints": [
+        1731768631
+      ],
+      "status": 1,
+      "timestamp": "2017-11-27T03:47:27.5703585Z",
+      "lastWriteTimeUtc": "2017-11-27T03:43:48.4923673Z",
+      "queryTimestamp": "2017-11-27T03:47:27.8263911Z",
+      "fileCount": 1,
+      "fileSize": 51871
     },
     {
       "folderName": "appliedenergistics2-rv4-stable-1.jar",
@@ -4092,57 +4077,6 @@
       "dateInstalled": "2017-11-26T21:36:12.7396326Z",
       "dateUpdated": "2017-11-26T21:36:12.7411335Z",
       "dateLastUpdateAttempted": "2017-11-26T21:36:12.7411335Z",
-      "status": 4,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null
-    },
-    {
-      "addonID": 238222,
-      "gameInstanceID": "28afb455-3db2-48a0-a114-4ed140b29fe3",
-      "installedFile": null,
-      "dateInstalled": "2017-11-26T21:47:22.9876179Z",
-      "dateUpdated": "2017-11-26T21:47:22.9906157Z",
-      "dateLastUpdateAttempted": "2017-11-26T21:47:22.9906157Z",
-      "status": 4,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null
-    },
-    {
-      "addonID": 243822,
-      "gameInstanceID": "28afb455-3db2-48a0-a114-4ed140b29fe3",
-      "installedFile": null,
-      "dateInstalled": "2017-11-26T21:47:23.2487276Z",
-      "dateUpdated": "2017-11-26T21:47:23.2507262Z",
-      "dateLastUpdateAttempted": "2017-11-26T21:47:23.2507262Z",
-      "status": 4,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null
-    },
-    {
-      "addonID": 247694,
-      "gameInstanceID": "28afb455-3db2-48a0-a114-4ed140b29fe3",
-      "installedFile": null,
-      "dateInstalled": "2017-11-26T21:47:29.5993437Z",
-      "dateUpdated": "2017-11-26T21:47:29.6013443Z",
-      "dateLastUpdateAttempted": "2017-11-26T21:47:29.6013443Z",
       "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
