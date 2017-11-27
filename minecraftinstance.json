@@ -30,8 +30,8 @@
   "allocatedMemory": 6144,
   "guid": "28afb455-3db2-48a0-a114-4ed140b29fe3",
   "gameTypeID": 432,
-  "installPath": "C:\\MC\\Instances\\Industrial Downpipe\\",
-  "name": "Industrial Downpipe",
+  "installPath": "C:\\MC\\Instances\\Industrial-Downpipe\\",
+  "name": "Industrial-Downpipe",
   "cachedScans": [
     {
       "folderName": "EnderCore-1.10.2-0.4.1.66-beta.jar",
@@ -4105,41 +4105,7 @@
     {
       "addonID": 238222,
       "gameInstanceID": "28afb455-3db2-48a0-a114-4ed140b29fe3",
-      "installedFile": {
-        "Id": 2428966,
-        "FileName": "jei_1.10.2-3.14.7.420.jar",
-        "FileNameOnDisk": "jei_1.10.2-3.14.7.420.jar",
-        "FileDate": "2017-06-03T18:55:45.96",
-        "ReleaseType": 1,
-        "FileStatus": 2,
-        "DownloadURL": "https://addons.cursecdn.com/files/2428/966/jei_1.10.2-3.14.7.420.jar",
-        "IsAlternate": false,
-        "AlternateFileId": 0,
-        "Dependencies": [],
-        "IsAvailable": true,
-        "Modules": [
-          {
-            "Foldername": "META-INF",
-            "Fingerprint": 537338346
-          },
-          {
-            "Foldername": "mezz",
-            "Fingerprint": 285911604
-          },
-          {
-            "Foldername": "mcmod.info",
-            "Fingerprint": 2949291765
-          },
-          {
-            "Foldername": "assets",
-            "Fingerprint": 2491184722
-          }
-        ],
-        "PackageFingerprint": 2451537769,
-        "GameVersion": [
-          "1.10.2"
-        ]
-      },
+      "installedFile": null,
       "dateInstalled": "2017-11-26T21:47:22.9876179Z",
       "dateUpdated": "2017-11-26T21:47:22.9906157Z",
       "dateLastUpdateAttempted": "2017-11-26T21:47:22.9906157Z",
@@ -4156,46 +4122,7 @@
     {
       "addonID": 243822,
       "gameInstanceID": "28afb455-3db2-48a0-a114-4ed140b29fe3",
-      "installedFile": {
-        "Id": 2400103,
-        "FileName": "CodeChicken Core 1.10.2-2.4.1.102-universal",
-        "FileNameOnDisk": "CodeChickenCore-1.10.2-2.4.1.102-universal.jar",
-        "FileDate": "2017-03-30T05:02:16.51",
-        "ReleaseType": 1,
-        "FileStatus": 2,
-        "DownloadURL": "https://addons.cursecdn.com/files/2400/103/CodeChickenCore-1.10.2-2.4.1.102-universal.jar",
-        "IsAlternate": false,
-        "AlternateFileId": 0,
-        "Dependencies": [
-          {
-            "AddOnId": 242818,
-            "Type": 1
-          }
-        ],
-        "IsAvailable": true,
-        "Modules": [
-          {
-            "Foldername": "META-INF",
-            "Fingerprint": 1737584120
-          },
-          {
-            "Foldername": "assets",
-            "Fingerprint": 1371961654
-          },
-          {
-            "Foldername": "codechicken",
-            "Fingerprint": 652243282
-          },
-          {
-            "Foldername": "mcmod.info",
-            "Fingerprint": 1866198415
-          }
-        ],
-        "PackageFingerprint": 1153593684,
-        "GameVersion": [
-          "1.10.2"
-        ]
-      },
+      "installedFile": null,
       "dateInstalled": "2017-11-26T21:47:23.2487276Z",
       "dateUpdated": "2017-11-26T21:47:23.2507262Z",
       "dateLastUpdateAttempted": "2017-11-26T21:47:23.2507262Z",
@@ -4212,54 +4139,7 @@
     {
       "addonID": 247694,
       "gameInstanceID": "28afb455-3db2-48a0-a114-4ed140b29fe3",
-      "installedFile": {
-        "Id": 2413865,
-        "FileName": "Not Enough Items 1.10.2-2.1.3.220-universal",
-        "FileNameOnDisk": "NotEnoughItems-1.10.2-2.1.3.220-universal.jar",
-        "FileDate": "2017-04-30T11:01:41.303",
-        "ReleaseType": 1,
-        "FileStatus": 2,
-        "DownloadURL": "https://addons.cursecdn.com/files/2413/865/NotEnoughItems-1.10.2-2.1.3.220-universal.jar",
-        "IsAlternate": false,
-        "AlternateFileId": 0,
-        "Dependencies": [
-          {
-            "AddOnId": 238222,
-            "Type": 1
-          },
-          {
-            "AddOnId": 242818,
-            "Type": 1
-          },
-          {
-            "AddOnId": 243822,
-            "Type": 1
-          }
-        ],
-        "IsAvailable": true,
-        "Modules": [
-          {
-            "Foldername": "META-INF",
-            "Fingerprint": 1299305525
-          },
-          {
-            "Foldername": "assets",
-            "Fingerprint": 74479898
-          },
-          {
-            "Foldername": "codechicken",
-            "Fingerprint": 1218489132
-          },
-          {
-            "Foldername": "neimod.info",
-            "Fingerprint": 3321256779
-          }
-        ],
-        "PackageFingerprint": 4244341632,
-        "GameVersion": [
-          "1.10.2"
-        ]
-      },
+      "installedFile": null,
       "dateInstalled": "2017-11-26T21:47:29.5993437Z",
       "dateUpdated": "2017-11-26T21:47:29.6013443Z",
       "dateLastUpdateAttempted": "2017-11-26T21:47:29.6013443Z",
@@ -5185,6 +5065,61 @@
       "dateInstalled": "2017-11-27T03:42:50.093704Z",
       "dateUpdated": "2017-11-27T03:42:50.0986971Z",
       "dateLastUpdateAttempted": "2017-11-27T03:42:50.0986971Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null
+    },
+    {
+      "addonID": 242064,
+      "gameInstanceID": "28afb455-3db2-48a0-a114-4ed140b29fe3",
+      "installedFile": {
+        "Id": 2393388,
+        "FileName": "itemscroller-1.10.2-0.11.0.jar",
+        "FileNameOnDisk": "itemscroller-1.10.2-0.11.0.jar",
+        "FileDate": "2017-03-15T13:57:53.5",
+        "ReleaseType": 1,
+        "FileStatus": 2,
+        "DownloadURL": "https://addons.cursecdn.com/files/2393/388/itemscroller-1.10.2-0.11.0.jar",
+        "IsAlternate": false,
+        "AlternateFileId": 0,
+        "Dependencies": [],
+        "IsAvailable": true,
+        "Modules": [
+          {
+            "Foldername": "META-INF",
+            "Fingerprint": 3749309618
+          },
+          {
+            "Foldername": "fi",
+            "Fingerprint": 1460414250
+          },
+          {
+            "Foldername": "assets",
+            "Fingerprint": 827828685
+          },
+          {
+            "Foldername": "mcmod.info",
+            "Fingerprint": 1596514923
+          },
+          {
+            "Foldername": "pack.mcmeta",
+            "Fingerprint": 1957747657
+          }
+        ],
+        "PackageFingerprint": 1731768631,
+        "GameVersion": [
+          "1.10.2"
+        ]
+      },
+      "dateInstalled": "2017-11-27T03:43:48.4923673Z",
+      "dateUpdated": "2017-11-27T03:43:48.4943688Z",
+      "dateLastUpdateAttempted": "2017-11-27T03:43:48.4943688Z",
       "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
