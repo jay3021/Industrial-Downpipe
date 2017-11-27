@@ -27,8 +27,8 @@ public class net/minecraft/world/WorldServer extends net/minecraft/world/World  
   // access flags 0x12
   private final Lnet/minecraft/entity/EntityTracker; field_73062_L
 
-  // access flags 0x12
-  private final Lnet/minecraft/server/management/PlayerChunkMap; field_73063_M
+  // access flags 0x11
+  public final Lnet/minecraft/server/management/PlayerChunkMap; field_73063_M
 
   // access flags 0x12
   // signature Ljava/util/Set<Lnet/minecraft/world/NextTickListEntry;>;

@@ -18,7 +18,7 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2017-11-27T04:37:16.2722736Z",
+  "lastPlayed": "2017-11-27T05:02:20.1050874Z",
   "manifest": null,
   "fileDate": "0001-01-01T00:00:00",
   "installedModpack": null,
@@ -1101,7 +1101,7 @@
     }
   ],
   "isValid": true,
-  "lastPreviousMatchUpdate": "2017-11-27T03:35:33.5934546Z",
+  "lastPreviousMatchUpdate": "2017-11-27T05:38:22.621565Z",
   "isEnabled": true,
   "isPinned": false,
   "gameVersion": "1.10.2",
@@ -5342,45 +5342,7 @@
     {
       "addonID": 229449,
       "gameInstanceID": "28afb455-3db2-48a0-a114-4ed140b29fe3",
-      "installedFile": {
-        "Id": 2408279,
-        "FileName": "EpicSiegeMod-11.0.156.jar",
-        "FileNameOnDisk": "EpicSiegeMod-11.0.156.jar",
-        "FileDate": "2017-04-18T04:19:21.187",
-        "ReleaseType": 1,
-        "FileStatus": 2,
-        "DownloadURL": "https://addons.cursecdn.com/files/2408/279/EpicSiegeMod-11.0.156.jar",
-        "IsAlternate": false,
-        "AlternateFileId": 0,
-        "Dependencies": [],
-        "IsAvailable": true,
-        "Modules": [
-          {
-            "Foldername": "META-INF",
-            "Fingerprint": 2464251221
-          },
-          {
-            "Foldername": "funwayguy",
-            "Fingerprint": 3097076147
-          },
-          {
-            "Foldername": "assets",
-            "Fingerprint": 541306888
-          },
-          {
-            "Foldername": "mcmod.info",
-            "Fingerprint": 2474285276
-          },
-          {
-            "Foldername": "title.jpg",
-            "Fingerprint": 3549610983
-          }
-        ],
-        "PackageFingerprint": 1287240845,
-        "GameVersion": [
-          "1.10.2"
-        ]
-      },
+      "installedFile": null,
       "dateInstalled": "2017-11-27T04:55:49.0574142Z",
       "dateUpdated": "2017-11-27T04:55:49.0589156Z",
       "dateLastUpdateAttempted": "2017-11-27T04:55:49.0589156Z",
@@ -5505,6 +5467,23 @@
       "dateInstalled": "2017-11-27T05:00:19.9323816Z",
       "dateUpdated": "2017-11-27T05:00:19.933883Z",
       "dateLastUpdateAttempted": "2017-11-27T05:00:19.933883Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null
+    },
+    {
+      "addonID": 263980,
+      "gameInstanceID": "28afb455-3db2-48a0-a114-4ed140b29fe3",
+      "installedFile": null,
+      "dateInstalled": "2017-11-27T05:01:03.1549824Z",
+      "dateUpdated": "2017-11-27T05:01:03.1564853Z",
+      "dateLastUpdateAttempted": "2017-11-27T05:01:03.1564853Z",
       "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,

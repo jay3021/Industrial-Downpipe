@@ -9,7 +9,7 @@ guiScale:3
 particles:0
 bobView:true
 anaglyph3d:false
-maxFps:250
+maxFps:260
 fboEnable:true
 difficulty:2
 fancyGraphics:true
@@ -106,8 +106,6 @@ key_key.ftbu.guide:0
 key_key.ftbu.warp:0
 key_Open Backpack:46
 key_Equip/Unequip Backpack:47
-key_itemscroller.desc.toggledisable:31:CONTROL
-key_itemscroller.desc.recipe:31
 key_openblocks.keybind.vario_switch:47
 key_openblocks.keybind.vario_vol_up:0
 key_openblocks.keybind.vario_vol_down:0
@@ -117,18 +115,40 @@ key_simplyjetpacks.keybind.engine:34
 key_simplyjetpacks.keybind.hover:38
 key_simplyjetpacks.keybind.charger:25
 key_simplyjetpacks.keybind.emergencyhover:19
+key_nei.options.keys.gui.enchant:45
+key_nei.options.keys.gui.potion:25
+key_nei.options.keys.gui.prev:201
+key_nei.options.keys.gui.next:209
+key_nei.options.keys.world.chunkoverlay:67
+key_nei.options.keys.world.moboverlay:65
+key_nei.options.keys.world.dawn:0
+key_nei.options.keys.world.noon:0
+key_nei.options.keys.world.dusk:0
+key_nei.options.keys.world.midnight:0
+key_nei.options.keys.world.rain:0
+key_nei.options.keys.world.heal:0
+key_nei.options.keys.world.creative:0
 key_keybind.baublesinventory:48
-key_key.carry.desc:199
 key_key.cofh.multimode:47
+key_key.carry.desc:199
+key_key.jei.toggleOverlay:24:CONTROL
+key_key.jei.focusSearch:33:CONTROL
+key_key.jei.showRecipe:19
+key_key.jei.showUses:22
+key_key.jei.recipeBack:14
+key_key.jei.toggleCheatMode:0
+key_key.placeItem:25
+key_key.toolConfig:46
+key_key.toolProfileChange:43
 key_waila.keybind.wailaconfig:82
 key_waila.keybind.wailadisplay:79
 key_waila.keybind.liquid:80
 key_waila.keybind.recipe:81
 key_waila.keybind.usage:75
+key_invtweaks.key.sort:19
 key_Mekanism Item Mode Switch:50
 key_Mekanism Armor Mode Switch:33
 key_Mekanism Voice:22
-key_invtweaks.key.sort:19
 key_key.config:207
 key_key.journeymap.zoom_in:13
 key_key.journeymap.zoom_out:12

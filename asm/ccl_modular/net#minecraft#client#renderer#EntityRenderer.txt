@@ -64,8 +64,8 @@ public class net/minecraft/client/renderer/EntityRenderer implements net/minecra
   // access flags 0x2
   private I field_78529_t
 
-  // access flags 0x2
-  private Lnet/minecraft/entity/Entity; field_78528_u
+  // access flags 0x1
+  public Lnet/minecraft/entity/Entity; field_78528_u
 
   // access flags 0x12
   private final Lnet/minecraft/util/MouseFilter; field_78527_v
@@ -76,8 +76,8 @@ public class net/minecraft/client/renderer/EntityRenderer implements net/minecra
   // access flags 0x12
   private final F field_78490_B = 4.0
 
-  // access flags 0x2
-  private F field_78491_C
+  // access flags 0x1
+  public F field_78491_C
 
   // access flags 0x2
   private F field_78496_H
