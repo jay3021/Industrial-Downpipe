@@ -34,7 +34,7 @@
   "name": "Industrial Downpipe",
   "cachedScans": [],
   "isValid": true,
-  "lastPreviousMatchUpdate": "2017-11-26T21:27:08.6051003Z",
+  "lastPreviousMatchUpdate": "2017-11-27T03:00:49.8192418Z",
   "isEnabled": true,
   "isPinned": false,
   "gameVersion": "1.10.2",
@@ -3821,6 +3821,57 @@
       "dateInstalled": "2017-11-26T23:33:39.7173728Z",
       "dateUpdated": "2017-11-26T23:33:39.7448767Z",
       "dateLastUpdateAttempted": "2017-11-26T23:33:39.7448767Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null
+    },
+    {
+      "addonID": 77027,
+      "gameInstanceID": "28afb455-3db2-48a0-a114-4ed140b29fe3",
+      "installedFile": {
+        "Id": 2328625,
+        "FileName": "HQM-New Heights-1.10.2-5.0.0beta4.jar",
+        "FileNameOnDisk": "HQM-New Heights-1.10.2-5.0.0beta4.jar",
+        "FileDate": "2016-09-06T17:53:10.203",
+        "ReleaseType": 2,
+        "FileStatus": 2,
+        "DownloadURL": "https://addons.cursecdn.com/files/2328/625/HQM-New Heights-1.10.2-5.0.0beta4.jar",
+        "IsAlternate": false,
+        "AlternateFileId": 0,
+        "Dependencies": [],
+        "IsAvailable": true,
+        "Modules": [
+          {
+            "Foldername": "META-INF",
+            "Fingerprint": 2464251221
+          },
+          {
+            "Foldername": "hardcorequesting",
+            "Fingerprint": 3943155352
+          },
+          {
+            "Foldername": "mcmod.info",
+            "Fingerprint": 3194957331
+          },
+          {
+            "Foldername": "assets",
+            "Fingerprint": 2375172220
+          }
+        ],
+        "PackageFingerprint": 709721715,
+        "GameVersion": [
+          "1.10.2"
+        ]
+      },
+      "dateInstalled": "2017-11-27T02:58:56.753875Z",
+      "dateUpdated": "2017-11-27T02:58:56.7568773Z",
+      "dateLastUpdateAttempted": "2017-11-27T02:58:56.7568773Z",
       "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
