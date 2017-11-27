@@ -1,0 +1,277 @@
+[18:36:15] [Client thread/INFO]: Setting user: jay302
+[18:36:19] [Client thread/WARN]: Skipping bad option: lastServer:
+[18:36:19] [Client thread/INFO]: LWJGL Version: 2.9.4
+[18:36:36] [Client thread/INFO]: Reloading ResourceManager: BetterFps, Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Not Enough Items, FMLFileResourcePack:AgriCraft, FMLFileResourcePack:Applied Energistics 2, FMLFileResourcePack:ArchitectureCraft, FMLFileResourcePack:BD Lib, FMLFileResourcePack:Biome Bundle, FMLFileResourcePack:Carry On, FMLFileResourcePack:Chameleon, FMLFileResourcePack:Chisel, FMLFileResourcePack:CodeChicken Core, FMLFileResourcePack:CodeChicken Lib, FMLFileResourcePack:ccl-entityhook, FMLFileResourcePack:CoFH Core, FMLFileResourcePack:CTM, FMLFileResourcePack:EnderCore, FMLFileResourcePack:Ender IO, FMLFileResourcePack:Extra Utilities 2, FMLFileResourcePack:Extreme Reactors, FMLFileResourcePack:Fast Leaf Decay, FMLFileResourcePack:Forestry, FMLFileResourcePack:Shadowfacts' Forgelin, FMLFileResourcePack:FTBLib, FMLFileResourcePack:FTBUtilities, FMLFileResourcePack:Advanced Generators, FMLFileResourcePack:Gravestone Mod, FMLFileResourcePack:Immersive Engineering, FMLFileResourcePack:Immersive Petroleum, FMLFileResourcePack:IndustrialCraft 2, FMLFileResourcePack:Industrial Wires, FMLFileResourcePack:InfinityLib, FMLFileResourcePack:Inventory Tweaks, FMLFileResourcePack:Iron Backpacks, FMLFileResourcePack:Iron Chest, FMLFileResourcePack:Just Enough Items, FMLFileResourcePack:JourneyMap, FMLFileResourcePack:Magneticraft, FMLFileResourcePack:Mantle, FMLFileResourcePack:MCMultiPart, FMLFileResourcePack:Mekanism, FMLFileResourcePack:MekanismGenerators, FMLFileResourcePack:MekanismTools, FMLFileResourcePack:MineColonies, FMLFileResourcePack:Minecraft Flight Simulator, FMLFileResourcePack:MineFactory Reloaded, FMLFileResourcePack:MFR Compat: Vanilla, FMLFileResourcePack:Nature's Compass, FMLFileResourcePack:OMLib, FMLFileResourcePack:OpenBlocks, FMLFileResourcePack:OpenModsLib, FMLFileResourcePack:Open Modular Turrets, FMLFileResourcePack:Open Terrain Generator, FMLFileResourcePack:OreExcavation, FMLFileResourcePack:Packing Tape, FMLFileResourcePack:ShadowMC, FMLFileResourcePack:Simply Jetpacks 2, FMLFileResourcePack:Sleeping Bag, FMLFileResourcePack:Storage Drawers, FMLFileResourcePack:Tinkers' Construct, FMLFileResourcePack:Thermal Dynamics, FMLFileResourcePack:Thermal Expansion, FMLFileResourcePack:Thermal Foundation, FMLFileResourcePack:Tinkers Tool Leveling, FMLFileResourcePack:Waila, FMLFileResourcePack:Zero CORE
+[18:37:20] [Client thread/WARN]: File mekanism:sounds/ElectrolyticSeparator.ogg does not exist, cannot add it to event mekanism:tile.machine.electrolyticseparator
+[18:37:20] [Client thread/WARN]: File mekanism:sounds/RotaryCondensentrator.ogg does not exist, cannot add it to event mekanism:tile.machine.rotarycondensentrator
+[18:37:20] [Client thread/WARN]: Missing sound for event: minecolonies:mob.guard.archer.female.badhousing
+[18:37:20] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[18:37:20] [Thread-10/INFO]: Initializing LWJGL OpenAL
+[18:37:20] [Thread-10/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[18:37:20] [Thread-10/INFO]: OpenAL initialized.
+[18:37:20] [Sound Library Loader/INFO]: Sound engine started
+[18:37:31] [Client thread/INFO]: Created: 16x16 textures-atlas
+[18:37:56] [Client thread/INFO]: Reloading ResourceManager: BetterFps, Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Not Enough Items, FMLFileResourcePack:AgriCraft, FMLFileResourcePack:Applied Energistics 2, FMLFileResourcePack:ArchitectureCraft, FMLFileResourcePack:BD Lib, FMLFileResourcePack:Biome Bundle, FMLFileResourcePack:Carry On, FMLFileResourcePack:Chameleon, FMLFileResourcePack:Chisel, FMLFileResourcePack:CodeChicken Core, FMLFileResourcePack:CodeChicken Lib, FMLFileResourcePack:ccl-entityhook, FMLFileResourcePack:CoFH Core, FMLFileResourcePack:CTM, FMLFileResourcePack:EnderCore, FMLFileResourcePack:Ender IO, FMLFileResourcePack:Extra Utilities 2, FMLFileResourcePack:Extreme Reactors, FMLFileResourcePack:Fast Leaf Decay, FMLFileResourcePack:Forestry, FMLFileResourcePack:Shadowfacts' Forgelin, FMLFileResourcePack:FTBLib, FMLFileResourcePack:FTBUtilities, FMLFileResourcePack:Advanced Generators, FMLFileResourcePack:Gravestone Mod, FMLFileResourcePack:Immersive Engineering, FMLFileResourcePack:Immersive Petroleum, FMLFileResourcePack:IndustrialCraft 2, FMLFileResourcePack:Industrial Wires, FMLFileResourcePack:InfinityLib, FMLFileResourcePack:Inventory Tweaks, FMLFileResourcePack:Iron Backpacks, FMLFileResourcePack:Iron Chest, FMLFileResourcePack:Just Enough Items, FMLFileResourcePack:JourneyMap, FMLFileResourcePack:Magneticraft, FMLFileResourcePack:Mantle, FMLFileResourcePack:MCMultiPart, FMLFileResourcePack:Mekanism, FMLFileResourcePack:MekanismGenerators, FMLFileResourcePack:MekanismTools, FMLFileResourcePack:MineColonies, FMLFileResourcePack:Minecraft Flight Simulator, FMLFileResourcePack:MineFactory Reloaded, FMLFileResourcePack:MFR Compat: Vanilla, FMLFileResourcePack:Nature's Compass, FMLFileResourcePack:OMLib, FMLFileResourcePack:OpenBlocks, FMLFileResourcePack:OpenModsLib, FMLFileResourcePack:Open Modular Turrets, FMLFileResourcePack:Open Terrain Generator, FMLFileResourcePack:OreExcavation, FMLFileResourcePack:Packing Tape, FMLFileResourcePack:ShadowMC, FMLFileResourcePack:Simply Jetpacks 2, FMLFileResourcePack:Sleeping Bag, FMLFileResourcePack:Storage Drawers, FMLFileResourcePack:Tinkers' Construct, FMLFileResourcePack:Thermal Dynamics, FMLFileResourcePack:Thermal Expansion, FMLFileResourcePack:Thermal Foundation, FMLFileResourcePack:Tinkers Tool Leveling, FMLFileResourcePack:Waila, FMLFileResourcePack:Zero CORE
+[18:37:57] [Client thread/WARN]: File mekanism:sounds/ElectrolyticSeparator.ogg does not exist, cannot add it to event mekanism:tile.machine.electrolyticseparator
+[18:37:57] [Client thread/WARN]: File mekanism:sounds/RotaryCondensentrator.ogg does not exist, cannot add it to event mekanism:tile.machine.rotarycondensentrator
+[18:37:57] [Client thread/WARN]: Missing sound for event: minecolonies:mob.guard.archer.female.badhousing
+[18:37:57] [Client thread/INFO]: SoundSystem shutting down...
+[18:37:57] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+[18:37:57] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[18:37:58] [Thread-20/INFO]: Initializing LWJGL OpenAL
+[18:37:58] [Thread-20/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[18:37:58] [Thread-20/INFO]: OpenAL initialized.
+[18:37:58] [Sound Library Loader/INFO]: Sound engine started
+[18:38:09] [Client thread/WARN]: Texture bigreactors:textures/guiicons/wastemanual_off.png with size 18x18 will have visual artifacts at mip level 4, it can only support level 1. Please report to the mod author that the texture should be some multiple of 16x16.
+[18:38:10] [Client thread/WARN]: Texture mekanism:textures/blocks/models/multipart/opaque/UniversalCableVerticalBasic.png with size 24x24 will have visual artifacts at mip level 4, it can only support level 3. Please report to the mod author that the texture should be some multiple of 16x16.
+[18:38:10] [Client thread/WARN]: Texture bigreactors:textures/guiicons/coolantin.png with size 17x17 will have visual artifacts at mip level 4, it can only support level 0. Please report to the mod author that the texture should be some multiple of 16x16.
+[18:38:10] [Client thread/WARN]: Texture bigreactors:textures/items/turbine/legacy/housingcoretop.png with size 9x9 will have visual artifacts at mip level 4, it can only support level 0. Please report to the mod author that the texture should be some multiple of 16x16.
+[18:38:10] [Client thread/WARN]: Texture mekanism:textures/blocks/models/multipart/opaque/ThermodynamicConductorVerticalElite.png with size 24x24 will have visual artifacts at mip level 4, it can only support level 3. Please report to the mod author that the texture should be some multiple of 16x16.
+[18:38:10] [Client thread/WARN]: Texture mekanism:textures/blocks/models/multipart/opaque/UniversalCableVerticalAdvanced.png with size 24x24 will have visual artifacts at mip level 4, it can only support level 3. Please report to the mod author that the texture should be some multiple of 16x16.
+[18:38:10] [Client thread/WARN]: Texture mekanism:textures/blocks/models/multipart/opaque/ThermodynamicConductorVerticalAdvanced.png with size 24x24 will have visual artifacts at mip level 4, it can only support level 3. Please report to the mod author that the texture should be some multiple of 16x16.
+[18:38:10] [Client thread/WARN]: Texture bigreactors:textures/guiicons/off_on.png with size 18x18 will have visual artifacts at mip level 4, it can only support level 1. Please report to the mod author that the texture should be some multiple of 16x16.
+[18:38:10] [Client thread/WARN]: Texture mekanism:textures/blocks/models/multipart/opaque/PressurizedTubeVerticalElite.png with size 24x24 will have visual artifacts at mip level 4, it can only support level 3. Please report to the mod author that the texture should be some multiple of 16x16.
+[18:38:10] [Client thread/WARN]: Texture mekanism:textures/blocks/models/multipart/opaque/PressurizedTubeVerticalUltimate.png with size 24x24 will have visual artifacts at mip level 4, it can only support level 3. Please report to the mod author that the texture should be some multiple of 16x16.
+[18:38:13] [Client thread/WARN]: Texture bigreactors:textures/guiicons/coolantout.png with size 17x17 will have visual artifacts at mip level 4, it can only support level 0. Please report to the mod author that the texture should be some multiple of 16x16.
+[18:38:14] [Client thread/WARN]: Texture mekanism:textures/blocks/models/multipart/opaque/ThermodynamicConductorVerticalBasic.png with size 24x24 will have visual artifacts at mip level 4, it can only support level 3. Please report to the mod author that the texture should be some multiple of 16x16.
+[18:38:14] [Client thread/WARN]: Texture bigreactors:textures/guiicons/wastemanual_on.png with size 18x18 will have visual artifacts at mip level 4, it can only support level 1. Please report to the mod author that the texture should be some multiple of 16x16.
+[18:38:14] [Client thread/WARN]: Texture mekanism:textures/blocks/models/multipart/opaque/UniversalCableVerticalUltimate.png with size 24x24 will have visual artifacts at mip level 4, it can only support level 3. Please report to the mod author that the texture should be some multiple of 16x16.
+[18:38:14] [Client thread/WARN]: Texture immersiveengineering:textures/blocks/metalMultiblock_silo.png with size 88x88 will have visual artifacts at mip level 4, it can only support level 3. Please report to the mod author that the texture should be some multiple of 16x16.
+[18:38:14] [Client thread/WARN]: Texture mekanism:textures/blocks/models/multipart/opaque/ThermodynamicConductorVerticalUltimate.png with size 24x24 will have visual artifacts at mip level 4, it can only support level 3. Please report to the mod author that the texture should be some multiple of 16x16.
+[18:38:14] [Client thread/WARN]: Texture bigreactors:textures/guiicons/on_off.png with size 18x18 will have visual artifacts at mip level 4, it can only support level 1. Please report to the mod author that the texture should be some multiple of 16x16.
+[18:38:14] [Client thread/WARN]: Texture bigreactors:textures/guiicons/hotfluidin.png with size 17x17 will have visual artifacts at mip level 4, it can only support level 0. Please report to the mod author that the texture should be some multiple of 16x16.
+[18:38:14] [Client thread/WARN]: Texture minecolonies:textures/blocks/info/info_poster_wax.png with size 12x12 will have visual artifacts at mip level 4, it can only support level 2. Please report to the mod author that the texture should be some multiple of 16x16.
+[18:38:14] [Client thread/WARN]: Texture mekanism:textures/blocks/models/multipart/opaque/PressurizedTubeVerticalAdvanced.png with size 24x24 will have visual artifacts at mip level 4, it can only support level 3. Please report to the mod author that the texture should be some multiple of 16x16.
+[18:38:14] [Client thread/WARN]: Texture bigreactors:textures/guiicons/wasteeject_on.png with size 18x18 will have visual artifacts at mip level 4, it can only support level 1. Please report to the mod author that the texture should be some multiple of 16x16.
+[18:38:14] [Client thread/WARN]: Texture bigreactors:textures/guiicons/hotfluidout.png with size 17x17 will have visual artifacts at mip level 4, it can only support level 0. Please report to the mod author that the texture should be some multiple of 16x16.
+[18:38:14] [Client thread/WARN]: Texture bigreactors:textures/guiicons/on_on.png with size 18x18 will have visual artifacts at mip level 4, it can only support level 1. Please report to the mod author that the texture should be some multiple of 16x16.
+[18:38:14] [Client thread/WARN]: Texture mekanism:textures/blocks/models/multipart/opaque/UniversalCableVerticalElite.png with size 24x24 will have visual artifacts at mip level 4, it can only support level 3. Please report to the mod author that the texture should be some multiple of 16x16.
+[18:38:15] [Client thread/WARN]: Texture mekanism:textures/blocks/models/multipart/opaque/PressurizedTubeVerticalBasic.png with size 24x24 will have visual artifacts at mip level 4, it can only support level 3. Please report to the mod author that the texture should be some multiple of 16x16.
+[18:38:15] [Client thread/WARN]: Texture bigreactors:textures/guiicons/wasteeject_off.png with size 18x18 will have visual artifacts at mip level 4, it can only support level 1. Please report to the mod author that the texture should be some multiple of 16x16.
+[18:38:15] [Client thread/WARN]: Texture bigreactors:textures/guiicons/off_off.png with size 18x18 will have visual artifacts at mip level 4, it can only support level 1. Please report to the mod author that the texture should be some multiple of 16x16.
+[18:38:21] [Client thread/INFO]: Created: 4096x4096 textures-atlas
+[18:38:26] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[18:38:26] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[18:38:26] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[18:38:26] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[18:38:26] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[18:38:26] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[18:38:26] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[18:38:26] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[18:38:26] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[18:38:26] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[18:38:26] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[18:38:26] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[18:38:26] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[18:38:26] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[18:38:26] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[18:38:26] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[18:38:27] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[18:38:27] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[18:38:27] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[18:38:27] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[18:38:27] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[18:38:27] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[18:38:27] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[18:38:27] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[18:38:27] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[18:38:27] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[18:38:27] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[18:38:27] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[18:38:27] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[18:38:27] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[18:38:27] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[18:38:27] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[18:38:27] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[18:38:27] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[18:38:27] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[18:38:27] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[18:38:27] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[18:38:27] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[18:38:27] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[18:38:27] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[18:38:28] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[18:38:28] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[18:38:28] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[18:38:28] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[18:38:28] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[18:38:28] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[18:38:28] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[18:38:28] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[18:38:28] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[18:38:28] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[18:38:28] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[18:38:28] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[18:38:28] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[18:38:28] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[18:38:28] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[18:38:28] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[18:38:28] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[18:38:28] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[18:38:28] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[18:38:28] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[18:38:28] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[18:38:28] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[18:38:28] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[18:38:28] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[18:38:28] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[18:38:28] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[18:38:28] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[18:38:28] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[18:38:29] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[18:38:29] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[18:38:29] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[18:38:29] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[18:38:29] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[18:38:29] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[18:38:29] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[18:38:29] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[18:38:29] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[18:38:29] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[18:38:29] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[18:38:29] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[18:38:29] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[18:38:29] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[18:38:29] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[18:38:29] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[18:38:29] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[18:38:29] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[18:38:29] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[18:38:29] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[18:38:29] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[18:38:29] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[18:38:29] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[18:38:29] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[18:38:29] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[18:38:29] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[18:38:29] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[18:38:29] [Client thread/WARN]: Unable to resolve texture due to upward reference: #side in immersiveengineering:models/block/ieScaffolding
+[18:38:32] [Client thread/WARN]: Skipping bad option: lastServer:
+[18:48:00] [Client thread/INFO]: Deleting level Biome Bundle
+[18:48:00] [Client thread/INFO]: Attempt 1...
+[18:48:05] [Server thread/INFO]: Starting integrated minecraft server version 1.10.2
+[18:48:05] [Server thread/INFO]: Generating keypair
+[18:48:58] [Server thread/INFO]: Preparing start region for level 0
+[18:48:59] [Server thread/INFO]: Preparing spawn area: 4%
+[18:49:00] [Server thread/INFO]: Preparing spawn area: 6%
+[18:49:02] [Server thread/INFO]: Preparing spawn area: 9%
+[18:49:03] [Server thread/INFO]: Preparing spawn area: 12%
+[18:49:04] [Server thread/INFO]: Preparing spawn area: 14%
+[18:49:05] [Server thread/INFO]: Preparing spawn area: 17%
+[18:49:06] [Server thread/INFO]: Preparing spawn area: 21%
+[18:49:07] [Server thread/INFO]: Preparing spawn area: 24%
+[18:49:08] [Server thread/INFO]: Preparing spawn area: 27%
+[18:49:09] [Server thread/INFO]: Preparing spawn area: 30%
+[18:49:10] [Server thread/INFO]: Preparing spawn area: 33%
+[18:49:11] [Server thread/INFO]: Preparing spawn area: 34%
+[18:49:12] [Server thread/INFO]: Preparing spawn area: 38%
+[18:49:13] [Server thread/INFO]: Preparing spawn area: 42%
+[18:49:14] [Server thread/INFO]: Preparing spawn area: 44%
+[18:49:15] [Server thread/INFO]: Preparing spawn area: 48%
+[18:49:16] [Server thread/INFO]: Preparing spawn area: 50%
+[18:49:18] [Server thread/INFO]: Preparing spawn area: 53%
+[18:49:19] [Server thread/INFO]: Preparing spawn area: 54%
+[18:49:20] [Server thread/INFO]: Preparing spawn area: 56%
+[18:49:21] [Server thread/INFO]: Preparing spawn area: 59%
+[18:49:22] [Server thread/INFO]: Preparing spawn area: 61%
+[18:49:23] [Server thread/INFO]: Preparing spawn area: 64%
+[18:49:24] [Server thread/INFO]: Preparing spawn area: 66%
+[18:49:25] [Server thread/INFO]: Preparing spawn area: 69%
+[18:49:26] [Server thread/INFO]: Preparing spawn area: 71%
+[18:49:27] [Server thread/INFO]: Preparing spawn area: 73%
+[18:49:28] [Server thread/INFO]: Preparing spawn area: 75%
+[18:49:29] [Server thread/INFO]: Preparing spawn area: 77%
+[18:49:30] [Server thread/INFO]: Preparing spawn area: 80%
+[18:49:32] [Server thread/INFO]: Preparing spawn area: 83%
+[18:49:33] [Server thread/INFO]: Preparing spawn area: 85%
+[18:49:34] [Server thread/INFO]: Preparing spawn area: 88%
+[18:49:35] [Server thread/INFO]: Preparing spawn area: 90%
+[18:49:36] [Server thread/INFO]: Preparing spawn area: 93%
+[18:49:37] [Server thread/INFO]: Preparing spawn area: 95%
+[18:49:38] [Server thread/INFO]: Preparing spawn area: 97%
+[18:49:39] [Server thread/INFO]: Preparing spawn area: 99%
+[18:49:40] [Server thread/INFO]: Changing view distance to 13, from 10
+[18:49:41] [Server thread/INFO]: jay302[local:E:befed73f] logged in with entity id 284 at (213.5, 54.0, 249.5)
+[18:49:41] [Server thread/INFO]: jay302 joined the game
+[18:49:52] [Client thread/INFO]: [CHAT] InvTweaks: Configuration loaded.
+[18:49:53] [Client thread/INFO]: [CHAT] §3AgriCraft alphas are the first step to improving Minecraft agriculture!
+[18:49:53] [Client thread/INFO]: [CHAT] §3You could be the first step to improving real-world agriculture!
+[18:49:53] [Client thread/INFO]: [CHAT] §3Donate here: https://www.heifer.org
+[18:49:53] [Client thread/INFO]: [CHAT] You haven't joined or created a team yet! [Click Here] to open TeamsGUI or [Click Here] to hide this message.
+[18:49:58] [Client thread/INFO]: [CHAT] §eJourneyMap:§f Press [§bJ§f]
+[18:50:05] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 24071ms behind, skipping 481 tick(s)
+[18:50:15] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 10655ms behind, skipping 213 tick(s)
+[18:50:48] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 23295ms behind, skipping 465 tick(s)
+[18:50:57] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2129ms behind, skipping 42 tick(s)
+[18:52:05] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2884ms behind, skipping 57 tick(s)
+[18:52:10] [Server thread/INFO]: jay302 has just earned the achievement [Taking Inventory]
+[18:52:10] [Client thread/INFO]: [CHAT] jay302 has just earned the achievement [Taking Inventory]
+[18:52:11] [Client thread/INFO]: [CHAT] You are now playing creative
+[18:52:30] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3478ms behind, skipping 69 tick(s)
+[18:53:14] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 29256ms behind, skipping 585 tick(s)
+[18:53:19] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4552ms behind, skipping 91 tick(s)
+[18:54:13] [File IO Thread/ERROR]: Failed to save chunk
+java.util.ConcurrentModificationException
+	at java.util.HashMap$HashIterator.nextNode(Unknown Source) ~[?:1.8.0_144]
+	at java.util.HashMap$KeyIterator.next(Unknown Source) ~[?:1.8.0_144]
+	at net.minecraft.nbt.NBTTagCompound.func_74734_a(NBTTagCompound.java:23) ~[dr.class:?]
+	at net.minecraft.nbt.CompressedStreamTools.func_150663_a(CompressedStreamTools.java:111) ~[ea.class:?]
+	at net.minecraft.nbt.CompressedStreamTools.func_74800_a(CompressedStreamTools.java:101) ~[ea.class:?]
+	at net.minecraft.world.chunk.storage.AnvilChunkLoader.func_183013_b(AnvilChunkLoader.java:242) ~[atj.class:?]
+	at net.minecraft.world.chunk.storage.AnvilChunkLoader.func_75814_c(AnvilChunkLoader.java:220) [atj.class:?]
+	at net.minecraft.world.storage.ThreadedFileIOBase.func_75736_b(SourceFile:37) [bbu.class:?]
+	at net.minecraft.world.storage.ThreadedFileIOBase.run(SourceFile:30) [bbu.class:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_144]
+[18:54:18] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 40886ms behind, skipping 817 tick(s)
+[18:54:26] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7652ms behind, skipping 153 tick(s)
+[18:55:27] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 38685ms behind, skipping 773 tick(s)
+[18:56:41] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8423ms behind, skipping 168 tick(s)
+[18:56:51] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2551ms behind, skipping 51 tick(s)
+[18:57:58] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5164ms behind, skipping 103 tick(s)
+[18:58:12] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2620ms behind, skipping 52 tick(s)
+[19:03:20] [Server thread/INFO]: Saving and pausing game...
+[19:03:20] [Server thread/INFO]: Saving chunks for level 'Biome Bundle'/Overworld
+[19:03:20] [Server thread/INFO]: Saving chunks for level 'Biome Bundle'/Nether
+[19:03:20] [Server thread/INFO]: Saving chunks for level 'Biome Bundle'/The End
+[19:03:20] [Server thread/INFO]: Saving chunks for level 'Biome Bundle'/Deep Dark
+[19:03:20] [Server thread/INFO]: Saving chunks for level 'Biome Bundle'/ExtraUtils2_Quarry_Dim
+[19:07:04] [Server thread/INFO]: [jay302: Given [Lava Bucket] * 1 to jay302]
+[19:07:04] [Client thread/INFO]: [CHAT] Given [Lava Bucket] * 1 to jay302
+[19:07:04] [Server thread/INFO]: [jay302: Given [Lava Bucket] * 1 to jay302]
+[19:07:04] [Client thread/INFO]: [CHAT] Given [Lava Bucket] * 1 to jay302
+[19:07:04] [Server thread/INFO]: [jay302: Given [Lava Bucket] * 1 to jay302]
+[19:07:04] [Client thread/INFO]: [CHAT] Given [Lava Bucket] * 1 to jay302
+[19:08:40] [Server thread/INFO]: Saving and pausing game...
+[19:08:40] [Server thread/INFO]: Saving chunks for level 'Biome Bundle'/Overworld
+[19:08:40] [Server thread/INFO]: Saving chunks for level 'Biome Bundle'/Nether
+[19:08:40] [Server thread/INFO]: Saving chunks for level 'Biome Bundle'/The End
+[19:08:40] [Server thread/INFO]: Saving chunks for level 'Biome Bundle'/Deep Dark
+[19:08:40] [Server thread/INFO]: Saving chunks for level 'Biome Bundle'/ExtraUtils2_Quarry_Dim
+[19:08:59] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3179ms behind, skipping 63 tick(s)
+[19:10:03] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 43026ms behind, skipping 860 tick(s)
+[19:10:04] [Server thread/INFO]: Saving and pausing game...
+[19:10:04] [Server thread/INFO]: Saving chunks for level 'Biome Bundle'/Overworld
+[19:10:05] [Server thread/INFO]: Saving chunks for level 'Biome Bundle'/Nether
+[19:10:05] [Server thread/INFO]: Saving chunks for level 'Biome Bundle'/The End
+[19:10:05] [Server thread/INFO]: Saving chunks for level 'Biome Bundle'/Deep Dark
+[19:10:05] [Server thread/INFO]: Saving chunks for level 'Biome Bundle'/ExtraUtils2_Quarry_Dim
+[19:10:18] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4646ms behind, skipping 92 tick(s)
+[19:13:14] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 119557ms behind, skipping 2391 tick(s)
+[19:13:33] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2610ms behind, skipping 52 tick(s)
+[19:13:48] [Server thread/INFO]: Saving and pausing game...
+[19:13:48] [Server thread/INFO]: Saving chunks for level 'Biome Bundle'/Overworld
+[19:13:49] [Server thread/INFO]: Saving chunks for level 'Biome Bundle'/Nether
+[19:13:49] [Server thread/INFO]: Saving chunks for level 'Biome Bundle'/The End
+[19:13:49] [Server thread/INFO]: Saving chunks for level 'Biome Bundle'/Deep Dark
+[19:13:49] [Server thread/INFO]: Saving chunks for level 'Biome Bundle'/ExtraUtils2_Quarry_Dim
+[19:13:49] [Server thread/INFO]: Stopping server
+[19:13:49] [Server thread/INFO]: Saving players
+[19:13:49] [Server thread/INFO]: Saving worlds
+[19:13:49] [Server thread/INFO]: Saving chunks for level 'Biome Bundle'/Overworld
+[19:13:49] [Server thread/INFO]: Saving chunks for level 'Biome Bundle'/Nether
+[19:13:49] [Server thread/INFO]: Saving chunks for level 'Biome Bundle'/The End
+[19:13:49] [Server thread/INFO]: Saving chunks for level 'Biome Bundle'/Deep Dark
+[19:13:49] [Server thread/INFO]: Saving chunks for level 'Biome Bundle'/ExtraUtils2_Quarry_Dim
+[19:15:58] [Client thread/INFO]: Stopping!
+[19:15:58] [Client thread/INFO]: SoundSystem shutting down...
+[19:15:59] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
